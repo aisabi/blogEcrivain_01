@@ -2,7 +2,7 @@
 
     <div class="container-fluid">
       <ul class="nav navbar-nav">
-        <li class="active"> <a href="blog_auteur.php">Accueil - Un billet pour l'Alaska </a> </li>
+        <li class="active"> <a href=".">Accueil - Un billet pour l'Alaska </a> </li>
         <li> <a href="propos_auteur.php">A propos de l'auteur</a> </li>
         <li> <a href="episodes.php">Les épisodes</a> </li>
       </ul>
